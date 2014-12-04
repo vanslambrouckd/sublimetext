@@ -1,0 +1,27 @@
+{
+	"installed_packages":
+	[
+		"ApplySyntax",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Gutter Color",
+		"JSHint",
+		"JSHint Gutter",
+		"Origami",
+		"Schemr",
+		"Seti_UI",
+		"Seti_UX",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jscs",
+		"SublimeLinter-jshint",
+		"Themr"
+	]
+}

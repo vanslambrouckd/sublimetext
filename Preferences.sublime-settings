@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/Seti_UX/Seti.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_tab_close_buttons": false,
+	"theme": "Seti.sublime-theme"
+}
